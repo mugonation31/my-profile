@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  margin-top: 40px;
+
+  &__admin {
+    background-color: green;
+    display: inline-flex;
+    border-radius: 8px;
+    color: white;
+    padding: 7px;
+  }
+}
+
+img {
+  border-radius: 50%;
+  width: 120px;
+}
